@@ -63,10 +63,10 @@ turing.SPEED_CONFIG = {
     branchTime: 10
   },
   1 /* TUTORIAL */: {
-    stepTime: 10,
-    tapeTime: 10,
-    emptyStepTime: 10,
-    branchTime: 10
+    stepTime: 1,
+    tapeTime: 1,
+    emptyStepTime: 1,
+    branchTime: 1
   },
   2 /* NORMAL */: {
     stepTime: 10,
@@ -94,7 +94,7 @@ turing.SPEED_CONFIG = {
  * @type {number}
  * @const
  */
-turing.SOMEWHAT_BORING_REPEAT_COUNT = 4;
+turing.SOMEWHAT_BORING_REPEAT_COUNT = 293249349329413943;
 
 
 /**
@@ -102,7 +102,7 @@ turing.SOMEWHAT_BORING_REPEAT_COUNT = 4;
  * @type {number}
  * @const
  */
-turing.VERY_BORING_REPEAT_COUNT = 6;
+turing.VERY_BORING_REPEAT_COUNT = 9299299292929299229292929;
 
 
 
