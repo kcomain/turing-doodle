@@ -29,11 +29,11 @@ goog.require('turing.anim');
  * @enum {number}
  */
 turing.SpeedSetting = {
-  SLOW: 0,
+  SLOW: 1,
   TUTORIAL: 1,
-  NORMAL: 2,
-  FAST: 3,
-  LUDICROUS: 4
+  NORMAL: 1,
+  FAST: 1,
+  LUDICROUS: 1
 };
 
 
