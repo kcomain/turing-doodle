@@ -63,10 +63,10 @@ turing.SPEED_CONFIG = {
     branchTime: 10
   },
   1 /* TUTORIAL */: {
-    stepTime: 650,
-    tapeTime: 500,
-    emptyStepTime: 200,
-    branchTime: 750
+    stepTime: 10,
+    tapeTime: 10,
+    emptyStepTime: 10,
+    branchTime: 10
   },
   2 /* NORMAL */: {
     stepTime: 10,
